@@ -8,3 +8,4 @@ transformers
 speechrecognition
 speechbrain
 fer
+pyttsx3
